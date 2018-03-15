@@ -32,4 +32,4 @@ println(string(result))
 * <melody12ab@gmail.com>
 * <https://www.jianshu.com/u/ff631089df1f>
 
-
+[1]: http://ai.baidu.com/docs#/
