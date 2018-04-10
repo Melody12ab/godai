@@ -19,7 +19,7 @@ go get -u github.com/Melody12ab/godai
 ```
 import "github.com/Melody12ab/godai"
 
-result, err := baiduai.GeneralBasic("test.jpg")
+result, err := godai.GeneralBasic("test.jpg")
 
 println(string(result))
 ```
